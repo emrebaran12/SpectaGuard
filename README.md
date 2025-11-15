@@ -1,4 +1,6 @@
 # SpectraGuard  
+🔗 Live Demo: https://spectaguard.netlify.app/
+
 A web-based privacy and anonymity audit tool.
 
 SpectraGuard analyzes how trackable your browser is by running real-time tests such as fingerprint entropy, canvas uniqueness, WebRTC leaks, headers exposure, and storage permissions. All evaluations are performed locally in the browser — no data is collected or transmitted.
